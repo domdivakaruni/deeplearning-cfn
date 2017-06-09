@@ -107,14 +107,14 @@
   },
   "Mappings" : {
     "AmazonLinux" : {
-      "us-east-1"      : { "AMI" : "ami-e7c96af1"  },
-      "us-west-2"      : { "AMI" : "ami-dfb13ebf"  },
-      "eu-west-1"      : { "AMI" : "ami-6e5d6808"  }
+      "us-east-1"      : { "AMI" : "ami-e47723f2"  },
+      "us-west-2"      : { "AMI" : "ami-c6dfb2a6"  },
+      "eu-west-1"      : { "AMI" : "ami-df0a1ab9"  }
     },
     "Ubuntu" : {
-      "us-east-1"      : { "AMI" : "ami-9548e783"  },
-      "us-west-2"      : { "AMI" : "ami-e9038d89"  },
-      "eu-west-1"      : { "AMI" : "ami-627d4a04"  }
+      "us-east-1"      : { "AMI" : "ami-b67e2aa0"  },
+      "us-west-2"      : { "AMI" : "ami-d9deb3b9"  },
+      "eu-west-1"      : { "AMI" : "ami-c50c1ca3"  }
     },
     "SubnetConfig" : {
       "VPC"     : { "CIDR" : "10.0.0.0/16" },
